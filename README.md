@@ -8,3 +8,7 @@
 ## Run project
 
 npm run dev (or yarn dev)
+
+## Demo link
+
+https://twendee-chi.vercel.app
